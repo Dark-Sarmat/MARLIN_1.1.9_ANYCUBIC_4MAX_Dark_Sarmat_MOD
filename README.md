@@ -18,3 +18,4 @@
 
 Информацию по решению проблем с Linear Advanced и драйверами TMC2208 вы можете получить в статье "Дневник 3Д печатника. Устанавливаем тихие драйверы TMC2208. Часть 3. Решение проблем с Linear Advanced" перейдя по ссылке: https://www.ionline.by/diy/3d-pechat/anycubic-4max/dnevnik-3d-pechatnika-ustanavlivaem-tixie-drajvery-tmc2208-chast-3-reshenie-problem-s-linear-advanced-29-03-2019/
 
+Для тех кто не хочет заморачиваться, создана страница с актуальными релизами прошивки. Она доступна по ссылке: https://github.com/Dark-Sarmat/MARLIN_1.1.9_ANYCUBIC_4MAX_Dark_Sarmat_MOD/releases/
