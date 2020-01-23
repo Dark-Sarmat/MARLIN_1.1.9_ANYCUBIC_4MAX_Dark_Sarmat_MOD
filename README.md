@@ -44,7 +44,15 @@
 	- MARLIN_1.1.9_4MAX_EN_V2_TMC220X.hex  версия с меню принтера на английском языке
 	- MARLIN_1.1.9_4MAX_RU_V2_TMC220X.hex  версия с меню принтера на русском языке
 	
+Подробности об изменениях в прошивке VARIANT_02 вы можете прочитать тут: https://www.ionline.by/diy/3d-pechat/anycubic-4max/dnevnik-3d-pechatnika-proshivka-marlin-1-1-9-variant-2-dlya-3d-printera-anycubic-4max-23-01-2020/
 
+Инструкция по установке прошивки с помощью Arduino IDE размещена тут: https://www.ionline.by/diy/3d-pechat/obshhaya-informaciya/ustanavlivaem-proshivku-marlin-na-3d-printer-s-pomoshhyu-arduino-ide-20-01-2020/
+
+Инструкция по прошивке с помошью слайсера Cura вот тут:
+https://www.ionline.by/diy/3d-pechat/obshhaya-informaciya/ustanavlivaem-proshivku-marlin-na-3d-printer-s-pomoshhyu-slajsera-cura-ili-chto-delat-s-hex-fajlom-21-01-2020/
+
+
+Старые, но не менее актуальные материалы:
 Информация по установке и настройке драйверов TMC2208 на 3Д принтер Anycubic 4Max вы можете получить в статье "Дневник 3Д печатника. Устанавливаем тихие драйверы TMC2208. Часть 1. Постановка задачи и электрика" перейдя по ссылке: https://www.ionline.by/diy/3d-pechat/anycubic-4max/dnevnik-3d-pechatnika-ustanavlivaem-tixie-drajvery-tmc2208-chast-1-postanovka-zadachi-i-elektrika-25-03-2019/
 
 Информацию по установке прошивки на 3Д принтер Anycubic 4Max вы можете получить в статье "Дневник 3Д печатника. Устанавливаем тихие драйверы TMC2208. Часть 2. Прошивка Anycubic 4max" перейдя по ссылке: https://www.ionline.by/diy/3d-pechat/anycubic-4max/dnevnik-3d-pechatnika-ustanavlivaem-tixie-drajvery-tmc2208-chast-2-proshivka-anycubic-4max-28-03-2019/
